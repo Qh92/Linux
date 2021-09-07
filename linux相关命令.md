@@ -218,3 +218,12 @@ unzip file.zip //解压zip
 7、*.tar.Z 用tar –xZf 解压
 8、*.rar 用 unrar e解压
 9、*.zip 用 unzip 解压
+
+
+
+#### 9.查看服务器磁盘容量
+
+df -h
+
+查看指定目录大小： du -sh 目录名称
+
